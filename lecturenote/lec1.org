@@ -1,0 +1,3 @@
+* Factoring Algorithm
+[[http://en.wikipedia.org/wiki/Special_number_field_sieve][number field sieve]]: \Theta(N^{1/3})
+[[http://en.wikipedia.org/wiki/General_number_field_sieve][general number field sieve]]: \Theta(\log_{2}n)

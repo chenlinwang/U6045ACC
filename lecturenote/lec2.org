@@ -1,0 +1,14 @@
+* Syllogism and Propositional Logic
+** First Order Logic
+The first order logic consists of three parts:
+1. The statements are represented as symbols.
+2. Statements can be organized by propositional logic symbols like: \land, \lor, \not, \rightarrow.
+3. Statements can be used by quantifiers to make a assertain, like: \forall, \exist.
+** Inference Rules
+1. Propositional Tautologies: (A) \lor (\not A)
+2. Modus Ponens: (A) \lor (A \rightarrow B) \Rightarrow B
+3. Equals: X = Y \Leftrightarrow Y = X
+4. Transitionaties: X = Y \land Y = Z \Rightarrow X = Z
+** Quantifier Rules
+1. A(X) \Leftrightarrow \forall x, A(x)
+2. \not ( \forall x, A(x)) \Leftrightarrow \exist x, \not A(x)

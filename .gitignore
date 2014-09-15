@@ -1,0 +1,9 @@
+##for the latex files
+*.tex
+*.log
+*.aux
+auto
+
+## for the texmacs file
+*.tm
+*.tm~
